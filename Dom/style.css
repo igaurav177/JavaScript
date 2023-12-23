@@ -1,0 +1,21 @@
+#heading{
+    color:blue;
+   background-color: yellow;
+}
+.headingclass{
+    color:white
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: blue;
+    color:red
+}
+#box{
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
